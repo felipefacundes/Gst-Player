@@ -7,7 +7,7 @@ Gstreamer Player like MPV - Run 4k videos on old notebooks with dual core proces
 ```
 git clone https://github.com/felipefacundes/Gst-Player
 
-cd Gst-Player && sudo cp -rf usr / && sudo chmod +x /bin/gst-play.sh
+cd Gst-Player/usr/ && sudo cp -rf share /usr/
 ```
 
 ##### Dependencies
